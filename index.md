@@ -51,11 +51,6 @@ Third-year Applications Development student specializing in Java desktop applica
 
 ---
 
-<center><h2>Mock Interview Video</h2></center>
-[Watch Mock Interview Video](https://drive.google.com/file/d/13OyihKPL2krV7WA-2vUSpcV1AtIHfc_S/view?usp=sharing)
-
-<center><h2>References</h2></center>
-
 Available upon request through:
 
 Department of Information and Communication Technology
@@ -65,3 +60,12 @@ Email: ctsservicedesk@cput.ac.za
 Cape Peninsula University of Technology
 Phone: +27 21 959 6407
 Email: ctsservicedesk@cput.ac.za
+
+---
+
+<center><h2>Mock Interview Video</h2></center>
+<center>[Watch Mock Interview Video](https://drive.google.com/file/d/13OyihKPL2krV7WA-2vUSpcV1AtIHfc_S/view?usp=sharing)</center>
+
+<center><h2>References</h2></center>
+
+---
